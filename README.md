@@ -91,3 +91,170 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat91026&layout=compact&theme=tokyonight)
 
 ---
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>🧑‍💼 Employee Management System</b></summary>
+
+### Description
+A Full Stack Employee Management System built using Django and MySQL.
+
+| Feature | Details |
+|---------|---------|
+| Backend | Django |
+| Database | MySQL |
+| CRUD | ✅ |
+| Authentication | Basic |
+| Status | Completed |
+
+</details>
+
+<details>
+<summary><b>🎙 AI Voice Assistant</b></summary>
+
+### Description
+A Python-based voice assistant that performs basic voice commands.
+
+| Feature | Details |
+|---------|---------|
+| Language | Python |
+| Voice Recognition | ✅ |
+| Text to Speech | ✅ |
+| Status | Completed |
+
+</details>
+
+<details>
+<summary><b>💰 Expense Tracker Dashboard</b></summary>
+
+### Description
+Expense tracking dashboard with clean UI.
+
+| Feature | Details |
+|---------|---------|
+| Frontend | HTML CSS JavaScript |
+| Dashboard | ✅ |
+| Responsive | ✅ |
+| Status | Completed |
+
+</details>
+
+<details>
+<summary><b>🧮 Python Calculator</b></summary>
+
+### Description
+Command Line Calculator built using Python.
+
+| Feature | Details |
+|---------|---------|
+| Language | Python |
+| Arithmetic Operations | ✅ |
+| Beginner Project | ✅ |
+| Status | Completed |
+
+</details>
+
+<details>
+<summary><b>🎨 Card Hover Effect</b></summary>
+
+### Description
+Responsive Card Hover UI.
+
+| Feature | Details |
+|---------|---------|
+| HTML | ✅ |
+| CSS | ✅ |
+| Animation | ✅ |
+| Status | Completed |
+
+</details>
+
+<details>
+<summary><b>💻 GFG Solutions</b></summary>
+
+### Description
+Solutions of GeeksforGeeks coding problems.
+
+| Platform | GeeksforGeeks |
+|-----------|---------------|
+| Language | Python |
+| Status | Active |
+
+</details>
+
+---
+
+# 🏆 Certifications
+
+| Certificate | Provider |
+|-------------|----------|
+| NPTEL Soft Skills | NPTEL |
+| Python | HackerRank |
+| JavaScript | Springboard |
+
+---
+
+# 💻 Coding Profiles
+
+- 💚 GeeksforGeeks  
+  https://www.geeksforgeeks.org/profile/rajat9wten
+
+- 💻 GitHub  
+  https://github.com/rajat91026
+
+---
+
+# 📊 GitHub Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rajat91026&theme=tokyo-night)](https://github.com/rajat91026)
+
+---
+
+# 🌱 Current Focus
+
+```yaml
+Learning:
+  - Django REST Framework
+  - React.js
+  - Advanced Python
+  - Data Structures & Algorithms
+
+Building:
+  - Full Stack Django Projects
+
+Open To:
+  - Internship
+  - Open Source
+  - Freelance Projects
+```
+
+---
+
+# 📫 Connect With Me
+
+📧 Email:
+rajat910260@gmail.com
+
+💻 GitHub:
+https://github.com/rajat91026
+
+💼 LinkedIn:
+https://www.linkedin.com/in/rajat-kumar-41946b331
+
+💚 GeeksforGeeks:
+https://www.geeksforgeeks.org/profile/rajat9wten
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=rajat91026&style=for-the-badge)
+
+### ⭐ Thanks for visiting my profile ⭐
+
+**"Code • Learn • Build • Repeat"**
+
+</div>
