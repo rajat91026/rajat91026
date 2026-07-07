@@ -266,9 +266,57 @@ https://www.geeksforgeeks.org/profile/rajat9wten
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=rajat91026&style=for-the-badge)
+ 
+</div>
 
-### ⭐ Thanks for visiting my profile ⭐
+---
 
-**"Code • Learn • Build • Repeat"**
+# 🐍 Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rajat91026/rajat91026/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+# 👀 Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajat91026&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+---
+
+# 📬 Contact Me
+
+<p align="center">
+
+<a href="mailto:rajat910260@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rajat91026">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/rajat-kumar-41946b331">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/rajat9wten">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for Visiting My Profile ⭐
+
+### 💻 Code • Learn • Build • Repeat 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6A5ACD,50:7B68EE,100:4B0082"/>
 
 </div>
