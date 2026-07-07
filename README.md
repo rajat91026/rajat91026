@@ -48,6 +48,20 @@
 
 ---
 
+# 💼 Experience
+
+### Python Developer Intern | Pinnacle Labs
+- Worked on Python development projects.
+- Improved problem-solving and coding skills.
+- Gained hands-on development experience.
+
+### Web Development Intern | InAmigos Foundation
+- Contributed to web development activities.
+- Worked on website-related tasks and team collaboration.
+- Participated in project planning and implementation.
+
+---
+
 # 🛠 Tech Stack
 
 ## Languages
