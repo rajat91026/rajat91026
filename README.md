@@ -62,19 +62,6 @@
 
 ---
 
- 
----
-
-# 📊 GitHub Analytics
-
-![](https://github-readme-stats.vercel.app/api?username=rajat91026&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajat91026&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat91026&layout=compact&theme=tokyonight)
-
----
-
 # 🛠 Tech Stack
 
 ## Languages
@@ -108,6 +95,16 @@
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
 </p>
+
+---
+
+# 📊 GitHub Analytics
+
+![](https://github-readme-stats.vercel.app/api?username=rajat91026&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=rajat91026&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat91026&layout=compact&theme=tokyonight)
 
 ---
 
