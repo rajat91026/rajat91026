@@ -62,38 +62,7 @@
 
 ---
 
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,flask"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-</p>
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
+ 
 ---
 
 # 📊 GitHub Analytics
@@ -105,6 +74,40 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat91026&layout=compact&theme=tokyonight)
 
 ---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,python,js,html,css"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django"/>
+<img src="https://img.shields.io/badge/DRF-Django%20REST%20Framework-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode"/>
+</p>
 
 ---
 
