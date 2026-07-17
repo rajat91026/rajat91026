@@ -41,7 +41,7 @@
 - 🎓 B.Tech CSE Student at **Swami Vivekanand Subharti University**
 - 💻 Python Full Stack Developer
 - 🌱 Learning **Django, Django REST Framework, React**
-- 🤖 Interested in AI/ML & Backend Development
+- 🤖 Interested in Frontend & Backend Development
 - 🚀 Solving DSA Problems and building Full Stack Projects
 - 📚 Expected Graduation **2028**
 - 🎯 Goal: Become a Software Engineer
@@ -121,7 +121,6 @@ A Full Stack Employee Management System built using Django and MySQL.
 | Backend | Django |
 | Database | MySQL |
 | CRUD | ✅ |
-| Authentication | Basic |
 | Status | Completed |
 
 </details>
@@ -153,6 +152,31 @@ Expense tracking dashboard with clean UI.
 | Dashboard | ✅ |
 | Responsive | ✅ |
 | Status | Completed |
+
+</details>
+
+<details>
+<summary><b>📝 To-Do List App</b></summary>
+
+### Description
+A responsive To-Do List web application built using HTML, CSS, and JavaScript. It allows users to add and delete tasks with input validation and a modern user interface.
+
+| Feature | Details |
+|---------|---------|
+| Frontend | HTML5, CSS3, JavaScript (ES6) |
+| DOM Manipulation | ✅ |
+| Input Validation | ✅ |
+| Add Task | ✅ |
+| Delete Task | ✅ |
+| Responsive UI | ✅ |
+| Status | Completed |
+
+### Features
+- ➕ Add new tasks
+- 🗑️ Delete tasks
+- ✅ Input validation
+- 🎨 Modern and responsive UI
+- ⚡ Dynamic DOM manipulation
 
 </details>
 
